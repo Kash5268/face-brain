@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/face-brain/static/css/main.fb1dcbfe.css",
-    "main.js": "/face-brain/static/js/main.bf7e224a.js",
+    "main.js": "/face-brain/static/js/main.d3fffbe8.js",
     "static/js/787.6d480c06.chunk.js": "/face-brain/static/js/787.6d480c06.chunk.js",
     "static/media/Crountch-One-Piece-Jolly-Roger-Luffys-flag.ico": "/face-brain/static/media/Crountch-One-Piece-Jolly-Roger-Luffys-flag.9322e9d8e2151e72530f.ico",
     "index.html": "/face-brain/index.html",
     "main.fb1dcbfe.css.map": "/face-brain/static/css/main.fb1dcbfe.css.map",
-    "main.bf7e224a.js.map": "/face-brain/static/js/main.bf7e224a.js.map",
+    "main.d3fffbe8.js.map": "/face-brain/static/js/main.d3fffbe8.js.map",
     "787.6d480c06.chunk.js.map": "/face-brain/static/js/787.6d480c06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb1dcbfe.css",
-    "static/js/main.bf7e224a.js"
+    "static/js/main.d3fffbe8.js"
   ]
 }
